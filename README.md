@@ -14,7 +14,9 @@ In this repository, you’ll find:
 
 1. **Clone or Download the Repository**  
    To get started, you can clone this repository or download it as a ZIP file.  
-```git clone https://github.com/faisal-khrisan/numpy-image-manipulation.git```
+```bash
+git clone https://github.com/faisal-khrisan/numpy-image-manipulation.git
+```
 
 
 Alternatively, click the green "Code" button and select "Download ZIP."
